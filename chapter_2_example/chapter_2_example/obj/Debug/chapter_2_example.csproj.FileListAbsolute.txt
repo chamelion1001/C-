@@ -1,0 +1,10 @@
+D:\C#\chapter_2_example\chapter_2_example\bin\Debug\chapter_2_example.exe.config
+D:\C#\chapter_2_example\chapter_2_example\bin\Debug\chapter_2_example.exe
+D:\C#\chapter_2_example\chapter_2_example\bin\Debug\chapter_2_example.pdb
+D:\C#\chapter_2_example\chapter_2_example\obj\Debug\chapter_2_example.csprojAssemblyReference.cache
+D:\C#\chapter_2_example\chapter_2_example\obj\Debug\chapter_2_example.Form1.resources
+D:\C#\chapter_2_example\chapter_2_example\obj\Debug\chapter_2_example.Properties.Resources.resources
+D:\C#\chapter_2_example\chapter_2_example\obj\Debug\chapter_2_example.csproj.GenerateResource.cache
+D:\C#\chapter_2_example\chapter_2_example\obj\Debug\chapter_2_example.csproj.CoreCompileInputs.cache
+D:\C#\chapter_2_example\chapter_2_example\obj\Debug\chapter_2_example.exe
+D:\C#\chapter_2_example\chapter_2_example\obj\Debug\chapter_2_example.pdb
